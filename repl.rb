@@ -6,6 +6,7 @@ until alarm_triggered == false
   puts "Options: snooze, wake up, throw alarm out the window"
   option = gets.chomp
 
+#Leaving a comment on Jeff's game 2.28.17
 
   case option
   when "snooze"
